@@ -106,13 +106,11 @@ This project was developed by **Nandan D** and **Tarun** as part of our **first-
 * Make sure your **microphone is working** for voice input.
 * Internet connection is required to fetch live weather data.
 
----
 
 ## 📄 License
 
 This project is for educational purposes only.
 
-```
 
 ---
 
