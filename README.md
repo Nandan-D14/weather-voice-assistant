@@ -110,9 +110,3 @@ This project was developed by **Nandan D** and **Tarun** as part of our **first-
 ## 📄 License
 
 This project is for educational purposes only.
-
-
----
-
-Let me know if you want this in `.md` file format to upload directly, or want to split version 1 and 2 in folders for GitHub.
-```
