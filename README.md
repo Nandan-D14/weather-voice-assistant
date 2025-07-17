@@ -96,13 +96,13 @@ python weather_app.py
 
 ## 📚 Credits
 
-This project was developed by **Nandan D** and **Tarun** as part of our **first-year group project** at \[Your Institution Name].
+This project was developed by **Nandan D** and **Tarun** as part of our **first-year group project** at PESU.
 
 ---
 
 ## 📌 Note
 
-* Some paths like `"C:\\Users\\Nandan\\Downloads\\mini_pro_img\\..."` need to be changed based on your file system.
+* Some paths like `"C:\\Users\\name\\Downloads\\mini_pro_img\\..."` need to be changed based on your file system.
 * Make sure your **microphone is working** for voice input.
 * Internet connection is required to fetch live weather data.
 
